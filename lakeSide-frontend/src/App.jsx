@@ -3,7 +3,7 @@ import AddRoom from './components/room/AddRoom';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <AddRoom />
     </div>
   );
