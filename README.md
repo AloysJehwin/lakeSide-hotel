@@ -1,8 +1,8 @@
-# 🏨 lakeSide-hotel Booking Site
+# lakeSide-hotel Booking Site
 
 A full-stack hotel booking application designed to streamline the process of searching, booking, and managing hotel stays. Built with **Spring Boot**, **React**, **MySQL**, **REST APIs**, and **Vite** for fast frontend development.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 | Technology  | Description                              |
 | ----------- | ---------------------------------------- |
@@ -12,7 +12,7 @@ A full-stack hotel booking application designed to streamline the process of sea
 | MySQL       | Relational database                      |
 | REST API    | Communication between frontend & backend |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lakeSide-hotel/
@@ -27,18 +27,18 @@ lakeSide-hotel/
 └── README.md
 ```
 
-## 🌟 Features
+## Features
 
-* 🔐 User authentication and registration
-* 🗕️ Hotel booking system with availability checks
-* 🏨 Browse hotels by location, rating, and price
-* 📊 Admin dashboard to manage listings and users
-* 📧 Confirmation emails and booking history
-* 💳 Payment gateway integration (optional/placeholder)
+* User authentication and registration
+* Hotel booking system with availability checks
+* Browse hotels by location, rating, and price
+* Admin dashboard to manage listings and users
+* Confirmation emails and booking history
+* Payment gateway integration (optional/placeholder)
 
-## 💠 Setup Instructions
+## Setup Instructions
 
-### 🔧 Prerequisites
+### Prerequisites
 
 * Java 17+
 * Node.js 18+
@@ -48,7 +48,7 @@ lakeSide-hotel/
 
 ---
 
-### 📦 Backend Setup (Spring Boot)
+### Backend Setup (Spring Boot)
 
 ```bash
 cd backend
@@ -68,7 +68,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 ---
 
-### 💻 Frontend Setup (React + Vite)
+### Frontend Setup (React + Vite)
 
 ```bash
 cd frontend
@@ -78,7 +78,7 @@ npm run dev
 
 ---
 
-## 🧪 API Overview
+## API Overview
 
 | Endpoint             | Method | Description              |
 | -------------------- | ------ | ------------------------ |
@@ -88,11 +88,11 @@ npm run dev
 | `/api/bookings`      | POST   | Book a room              |
 | `/api/users/{id}`    | GET    | Get user booking details |
 
-## 📸 Screenshots
+## Screenshots
 
 > *Coming soon!* (Include booking pages, dashboard, etc.)
 
-## ✨ Future Enhancements
+## Future Enhancements
 
 * 🗼 Google Maps integration
 * 🧾 Invoice generation
@@ -100,16 +100,16 @@ npm run dev
 * 📱 Mobile responsive PWA
 * 🔔 Notifications system
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-### 👨‍💻 Developed by [Aloys Jehwin](https://portfolio-aloys-jehwins-projects.vercel.app/)
+### Developed by [Aloys Jehwin](https://portfolio-aloys-jehwins-projects.vercel.app/)
 
 [GitHub Repo](https://github.com/AloysJehwin/lakeSide-hotel)
