@@ -94,11 +94,11 @@ npm run dev
 
 ## Future Enhancements
 
-* 🗼 Google Maps integration
-* 🧾 Invoice generation
-* 💳 Stripe/Razorpay integration
-* 📱 Mobile responsive PWA
-* 🔔 Notifications system
+* Google Maps integration
+* Invoice generation
+* Stripe/Razorpay integration
+* Mobile responsive PWA
+* Notifications system
 
 ## Contributing
 
